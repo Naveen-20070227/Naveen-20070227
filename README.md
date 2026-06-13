@@ -12,50 +12,106 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
 
-```python
-class NaveenPrasanth:
-    def __init__(self):
-        self.name         = "Naveen Prasanth"
-        self.location     = "Madurai, Tamil Nadu, India"
-        self.degree       = "B.Sc. Information Technology (2024–2027)"
-        self.college      = "The American College, Madurai"
-        self.gpa          = 9.4 / 10
+<!-- Profile Card -->
+<table width="100%" border="0" cellspacing="0" cellpadding="12" style="background:#0d1117;border:1px solid #21262d;border-radius:12px;">
+<tr>
+<td>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=70A5FD&width=380&lines=📍+Madurai%2C+Tamil+Nadu%2C+India;🎓+B.Sc.+IT+%40+The+American+College;⚡+GPA%3A+9.4+%2F+10" alt="info"/>
 
-        self.stack = [
-            "Python", "FastAPI", "PostgreSQL",
-            "Docker", "SQLAlchemy", "JavaScript",
-            "HTML", "CSS", "Supabase"
-        ]
-
-        self.currently_learning = [
-            "System Design",
-            "Advanced DSA",
-            "Cloud Deployment (AWS / GCP)"
-        ]
-
-        self.fun_fact = (
-            "I containerised an entire app stack "
-            "cutting setup time from hours → 2 mins 🐳"
-        )
-
-    def motto(self):
-        return "Ship clean code. Measure everything. Keep learning."
-
-me = NaveenPrasanth()
-print(me.motto())
+```
+👤  Naveen Prasanth
+📍  Madurai, Tamil Nadu, India
+🎓  B.Sc. IT · The American College (2024–2027)
+⭐  GPA : 9.4 / 10
+📧  prasanth.naveen.k@gmail.com
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
-- 🔭 Currently building **full-stack APIs** with FastAPI & PostgreSQL
-- 🤖 Passionate about **AI integration** — already shipped a LLaMA 3.1-powered chatbot
-- 🏆 **2nd Runner-Up** in college coding contest (100+ participants)
-- 💡 **75+ problems** solved on LeetCode & HackerRank
-- 📫 Reach me at **prasanth.naveen.k@gmail.com**
+<br/>
+
+<!-- Stats Cards -->
+<table width="100%" border="0" cellspacing="8" cellpadding="0">
+<tr>
+<td width="48%" align="center" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;">
+
+**🏆 75+**
+<br/><sub>Problems Solved · LeetCode & HackerRank</sub>
+
+</td>
+<td width="4%"></td>
+<td width="48%" align="center" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;">
+
+**🥉 2nd Runner-Up**
+<br/><sub>College Coding Contest · 100+ participants</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Currently Learning -->
+<table width="100%" border="0" cellspacing="0" cellpadding="12" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;">
+<tr><td>
+
+**🧠 Currently Learning**
+
+&nbsp;&nbsp;`🧱` **System Design** → Scalability · Load Balancing · Caching<br/>
+&nbsp;&nbsp;`⚡` **Advanced DSA** → Graphs · DP · Segment Trees<br/>
+&nbsp;&nbsp;`☁️` **Cloud** → AWS EC2 · S3 · RDS · GCP Cloud Run<br/>
+&nbsp;&nbsp;`🔐` **Security** → OAuth 2.0 · Rate Limiting · RBAC
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- Motto -->
+<table width="100%" border="0" cellspacing="0" cellpadding="12" style="background:#161b22;border-left:4px solid #7F77DD;border-radius:0 10px 10px 0;">
+<tr><td>
+<sub>💬 &nbsp; <em>"Ship clean code. Measure everything. Keep learning."</em></sub>
+</td></tr>
+</table>
+
+</td>
+<td width="5%"></td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:10px;" alt="coding gif"/>
+
+<br/><br/>
+
+<!-- Tech Pills -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+<br/>
+
+<!-- Fun Fact -->
+<table width="100%" border="0" cellspacing="0" cellpadding="10" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;">
+<tr><td align="center">
+🐳 &nbsp; <sub>Containerised a full app stack with Docker —<br/>cut env setup time from <strong>hours → &lt; 2 minutes</strong></sub>
+</td></tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ---
 
