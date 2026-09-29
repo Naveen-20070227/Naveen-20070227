@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=180\&section=header\&text=Naveen%20Prasanth\&fontSize=42\&fontColor=fff\&animation=twinkling\&fontAlignY=32\&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast\&descAlignY=62\&descSize=16)
+![Naveen Prasanth](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Naveen%20Prasanth&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=62&descSize=16)
 
 </div>
 
