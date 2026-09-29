@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=28\&duration=3000\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=750\&lines=Hey+there%2C+I'm+Naveen+Prasanth+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Python+%2B+FastAPI+%2B+PostgreSQL+%2B+JavaScript;Building+practical+web+%26+AI-powered+applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=28\&duration=3000\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=750\&lines=Hey+there%2C+I'm+Naveen+Prasanth+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;Python+%2B+FastAPI+%2B+PostgreSQL+%2B+JavaScript;)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,15 +27,15 @@
 📍  Madurai, Tamil Nadu, India
 🎓  B.Sc. Information Technology
 🏫  The American College
-📅  Expected Graduation: 2027
-⭐  GPA: 9.3 / 10
+📅  2024 – 2027
+⭐  GPA : 9.3 / 10
 ```
 
-I'm a B.Sc. Information Technology student focused on **building practical full-stack applications and exploring AI/ML engineering**.
+I'm a **B.Sc. Information Technology student** focused on building practical full-stack applications and exploring **AI/ML engineering**.
 
-I enjoy working across the complete development process — understanding a problem, designing the application, building the backend and frontend, working with databases, testing the system, and deploying it.
+I enjoy working across the complete development lifecycle — from understanding a problem and designing the system to developing, testing, and deploying applications.
 
-I'm particularly interested in **Python, backend development, NLP, Machine Learning, and AI-powered applications**.
+My current focus is **Python, backend development, FastAPI, databases, NLP, Machine Learning, and AI-powered applications**.
 
 </td>
 </tr>
@@ -45,17 +45,21 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 
 <table width="100%" border="0" cellspacing="8" cellpadding="0">
 <tr>
+
 <td width="48%" align="center" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;">
 
-**🚀 Full-Stack** <br/><sub>Design · Develop · Test · Deploy</sub>
+**🚀 Full-Stack Development** <br/><sub>Design · Develop · Test · Deploy</sub>
 
 </td>
+
 <td width="4%"></td>
+
 <td width="48%" align="center" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;padding:14px;">
 
 **🤖 AI / ML** <br/><sub>NLP · Machine Learning · AI Applications</sub>
 
 </td>
+
 </tr>
 </table>
 
@@ -64,12 +68,12 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 <table width="100%" border="0" cellspacing="0" cellpadding="12" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;">
 <tr><td>
 
-**🧠 Currently Focusing On**
+**🧠 Currently Working On**
 
   `🐍` **Python** → Backend development · Data processing · ML applications<br/>
   `⚡` **FastAPI** → REST APIs · Authentication · Backend architecture<br/>
-  `🤖` **AI / ML** → NLP · Sentiment Analysis · Practical AI systems<br/>
-  `🗄️` **Databases** → PostgreSQL · SQLite · Schema design
+  `🤖` **AI / ML** → NLP · Sentiment Analysis · Intelligent applications<br/>
+  `🗄️` **Databases** → PostgreSQL · SQLite · Database design
 
 </td></tr>
 </table>
@@ -78,7 +82,9 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 
 <table width="100%" border="0" cellspacing="0" cellpadding="12" style="background:#161b22;border-left:4px solid #7F77DD;border-radius:0 10px 10px 0;">
 <tr><td>
-<sub>💬 &nbsp; <em>"Build it. Understand it. Improve it."</em></sub>
+
+<sub>💬   <em>"Build it. Understand it. Improve it."</em></sub>
+
 </td></tr>
 </table>
 
@@ -95,8 +101,8 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
@@ -106,7 +112,7 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 <table width="100%" border="0" cellspacing="0" cellpadding="10" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;">
 <tr><td align="center">
 
-🐍   <sub>Python is my primary language for<br/>backend development and AI/ML projects.</sub>
+🐍   <sub>Building with Python across<br/>backend and AI/ML projects.</sub>
 
 </td></tr>
 </table>
@@ -119,22 +125,21 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=sqlite\&logoColor=white)
 
-### Backend & APIs
+**Frameworks & Libraries**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-4B5563?style=flat-square\&logo=uvicorn\&logoColor=white)
 
-### AI / Machine Learning
+**AI / Machine Learning**
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
@@ -142,18 +147,19 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
 
-### Databases
+**Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
 
-### Tools & Development
+**Tools & Development**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
 
 ---
 
@@ -173,7 +179,7 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Streak Stats
 
 <div align="center">
 
@@ -183,7 +189,7 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 
 ---
 
-## 📈 Activity
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -193,15 +199,26 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 
 ---
 
-## 💼 Featured Projects
+## 🏆 Trophy Wall
 
 <div align="center">
 
-| Project          | Stack                                        | Description                                                                                                                                                   |
-| ---------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🧠 **SupportIQ** | Python · NLP · FastAPI · SQLite · JavaScript | Customer feedback platform that automatically classifies feedback as **Positive, Negative, or Neutral** and organizes feedback for the support team.          |
-| 💰 **FinVault**  | FastAPI · PostgreSQL · JavaScript · JWT      | Full-stack fintech application developed during my internship, covering authentication, API development, database design, testing, and application workflows. |
-| 🎬 **CineCheck** | Python · Machine Learning · FastAPI          | Machine learning application that predicts movie ratings based on relevant movie features and exposes the model through an API.                               |
+[![trophy](https://github-profile-trophy.vercel.app/?username=Naveen-20070227\&theme=tokyonight\&no-frame=true\&no-bg=true\&row=1\&column=7\&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 Projects
+
+<div align="center">
+
+| Project                                                 | Stack                                        | Highlights                                                                                                                                           |
+| ------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [🧠 **SupportIQ**](https://github.com/Naveen-20070227)  | Python · NLP · FastAPI · SQLite · JavaScript | Customer feedback platform that automatically classifies feedback as **Positive, Negative, or Neutral** and organizes feedback for the support team. |
+| [💰 **FinVault**](https://github.com/Naveen-20070227)   | FastAPI · PostgreSQL · JavaScript · JWT      | Full-stack fintech application developed during my internship, covering authentication, REST APIs, database design, and application workflows.       |
+| [🎬 **CineCheck**](https://github.com/Naveen-20070227)  | Python · scikit-learn · FastAPI              | Machine learning application that predicts movie ratings using movie-related features and exposes the model through an API.                          |
+| [🤖 **AI Chatbot**](https://github.com/Naveen-20070227) | Python · FastAPI · AI APIs · JavaScript      | AI-powered conversational application focused on integrating intelligent responses into a full-stack application.                                    |
 
 </div>
 
@@ -209,24 +226,28 @@ I'm particularly interested in **Python, backend development, NLP, Machine Learn
 
 ## 💼 Experience
 
-### Full-Stack Developer Intern
+<div align="center">
 
-**DotCom Infoway · May – June 2026**
+| Role                            | Organization       | Duration        |
+| ------------------------------- | ------------------ | --------------- |
+| **Full-Stack Developer Intern** | **DotCom Infoway** | May – June 2026 |
 
-Worked on a fintech full-stack application and contributed to the development lifecycle by designing application functionality, developing backend APIs, working with databases and authentication, testing features, and improving the overall application.
+</div>
+
+Worked on a **fintech full-stack web application**, contributing to application design, backend development, database integration, authentication, testing, and feature improvements.
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements
 
 <div align="center">
 
-| 🏆 | Achievement                                             |
-| -- | ------------------------------------------------------- |
-| 🥉 | **2nd Runner-Up — College Coding Contest**              |
-| 💻 | **75+ Problems Solved** across coding platforms         |
-| 🐍 | **Python Developer Certification — Scaler**             |
-| 📜 | **JavaScript Developer Certification — Learnz Connect** |
+| 🏆 | Achievement                                | Details                                |
+| -- | ------------------------------------------ | -------------------------------------- |
+| 🥉 | **2nd Runner-Up — College Coding Contest** | Competed against **100+ participants** |
+| 💻 | **75+ Problems Solved**                    | DSA & problem-solving practice         |
+| 🐍 | **Python Developer Certification**         | Scaler                                 |
+| 📜 | **JavaScript Developer Certification**     | Learnz Connect                         |
 
 </div>
 
@@ -236,31 +257,41 @@ Worked on a fintech full-stack application and contributed to the development li
 
 <div align="center">
 
-| Degree                       | Institution                   | Duration    | GPA          |
-| ---------------------------- | ----------------------------- | ----------- | ------------ |
-| B.Sc. Information Technology | The American College, Madurai | 2024 – 2027 | **9.3 / 10** |
+| Degree                           | Institution                   | Duration    | GPA          |
+| -------------------------------- | ----------------------------- | ----------- | ------------ |
+| **B.Sc. Information Technology** | The American College, Madurai | 2024 – 2027 | **9.3 / 10** |
 
 </div>
 
 ---
 
-## 🧠 Currently Exploring
+## 🧠 Currently Learning
+
+<table width="100%" border="0" cellspacing="0" cellpadding="12" style="background:#0d1117;border:1px solid #21262d;border-radius:10px;">
+<tr><td>
 
 ```text
-🤖 AI / ML           → NLP · Machine Learning · AI-powered Applications
-📝 NLP                → Text Classification · Sentiment Analysis · Transformers
-⚡ Backend             → FastAPI · REST APIs · Authentication · Database Design
-🐍 Python              → Backend Engineering · Data Processing · ML Development
-🚀 Deployment          → Docker · API Deployment · Production Applications
+🤖 AI / ML          → Machine Learning · NLP · AI Applications
+📝 NLP              → Text Classification · Sentiment Analysis · Transformers
+⚡ Backend           → FastAPI · REST APIs · Authentication · Database Design
+🐍 Python            → Backend Engineering · Data Processing · ML Development
+🚀 Deployment        → Docker · API Deployment · Production Applications
 ```
+
+</td></tr>
+</table>
 
 ---
 
 ## 🎯 What I'm Working Towards
 
-Becoming a strong **AI/ML + Full-Stack Engineer** who can take an idea from problem definition to a working, tested, and deployable application.
+I'm working toward becoming a strong **AI/ML + Full-Stack Engineer** who can take an idea from problem definition to a working, tested, and deployable application.
 
-I care about **understanding the systems I build**, writing maintainable code, and continuously improving my engineering skills.
+I focus on understanding the systems I build rather than simply making them work.
+
+```text
+Understand → Design → Build → Test → Deploy → Improve
+```
 
 ---
 
@@ -268,12 +299,12 @@ I care about **understanding the systems I build**, writing maintainable code, a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/naveen-prasanth-k-0566a8391)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/naveen-prasanth-k-0566a8391)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Naveen-20070227)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:prasanth.naveen.k@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square\&logo=vercel\&logoColor=white)](https://portfolio-naveen-prasanth-57.vercel.app/)
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Naveen-20070227\&color=70a5fd\&style=flat-square\&label=Profile+Views)
 
@@ -283,8 +314,12 @@ I care about **understanding the systems I build**, writing maintainable code, a
 
 <div align="center">
 
-### 💻 Build. Understand. Improve.
+*"Build it. Understand it. Improve it."*
 
 </div>
 
+<div align="center">
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&customColorList=6,11,20\&height=120\&section=footer\&animation=twinkling)
+
+</div>
